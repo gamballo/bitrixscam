@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/.default/js/jquery-1.8.2.min.js" => "171471451093435","/bitrix/templates/.default/js/slides.min.jquery.js" => "17147145106786","/bitrix/templates/.default/js/jquery.carouFredSel-6.1.0-packed.js" => "171471451036416","/bitrix/templates/.default/js/functions.js" => "17147145094220",]; ?>
