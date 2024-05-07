@@ -29,7 +29,7 @@
                     </td>
                     <td rowspan="2" class="hd_txarea">
                         <span class="tel">8 (495) 212-85-06</span>	<br/>
-                        <? GetMessage('WORK_TIME') ?> <span class="workhours">ежедневно с 9-00 до 18-00</span>
+                        Время работы <span class="workhours">ежедневно с 9-00 до 18-00</span>
                     </td>
                     <td style="width:232px">
                         <form action="">
