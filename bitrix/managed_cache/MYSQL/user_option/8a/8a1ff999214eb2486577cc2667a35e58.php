@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001714719116';
-$dateexpire = '001714722716';
-$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:0:{}}';
+$datecreate = '001715164641';
+$dateexpire = '001715168241';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:4:{s:51:"tbl_iblock_element_83282f8abe10dba1648858eafb93e3f2";a:6:{s:14:"use_pin_preset";b:1;s:15:"deleted_presets";a:0:{}s:15:"default_presets";a:0:{}s:7:"default";s:14:"default_filter";s:6:"filter";s:14:"default_filter";s:7:"filters";a:2:{s:14:"default_filter";a:2:{s:6:"fields";a:0:{}s:11:"filter_rows";s:46:"NAME,SECTION_ID,INCLUDE_SUBSECTIONS,PROPERTY_6";}s:10:"tmp_filter";a:2:{s:6:"fields";a:4:{s:4:"NAME";s:0:"";s:10:"SECTION_ID";s:0:"";s:19:"INCLUDE_SUBSECTIONS";s:0:"";s:10:"PROPERTY_6";s:6:"234017";}s:11:"filter_rows";s:46:"NAME,SECTION_ID,INCLUDE_SUBSECTIONS,PROPERTY_6";}}}s:51:"tbl_iblock_element_dd5ef36e5a447af02ffc50723f333b15";a:6:{s:14:"use_pin_preset";b:1;s:15:"deleted_presets";a:0:{}s:15:"default_presets";a:0:{}s:7:"default";s:14:"default_filter";s:6:"filter";s:14:"default_filter";s:7:"filters";a:2:{s:14:"default_filter";a:0:{}s:10:"tmp_filter";a:2:{s:6:"fields";a:1:{s:10:"SECTION_ID";s:1:"0";}s:11:"filter_rows";s:10:"SECTION_ID";}}}s:51:"tbl_iblock_section_83282f8abe10dba1648858eafb93e3f2";a:6:{s:14:"use_pin_preset";b:1;s:15:"deleted_presets";a:0:{}s:15:"default_presets";a:0:{}s:7:"default";s:14:"default_filter";s:6:"filter";s:14:"default_filter";s:7:"filters";a:1:{s:10:"tmp_filter";a:2:{s:6:"fields";a:1:{s:10:"SECTION_ID";s:1:"0";}s:11:"filter_rows";s:10:"SECTION_ID";}}}s:51:"tbl_iblock_section_dd5ef36e5a447af02ffc50723f333b15";a:6:{s:14:"use_pin_preset";b:1;s:15:"deleted_presets";a:0:{}s:15:"default_presets";a:0:{}s:7:"default";s:14:"default_filter";s:6:"filter";s:14:"default_filter";s:7:"filters";a:1:{s:10:"tmp_filter";a:2:{s:6:"fields";a:2:{s:4:"NAME";s:0:"";s:10:"SECTION_ID";s:0:"";}s:11:"filter_rows";s:15:"NAME,SECTION_ID";}}}}}';
 return true;
 ?>
